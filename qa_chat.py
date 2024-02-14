@@ -5,7 +5,6 @@ import PyPDF2
 import io
 from distutils.log import error
 from lib2to3.pgen2.token import NEWLINE
-from flask import Flask , render_template , url_for , request , redirect , jsonify
 import csv , requests
 import streamlit as st
 import os
