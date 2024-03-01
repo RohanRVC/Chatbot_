@@ -120,7 +120,7 @@ def main():
      
         
         if user_query!='':
-            response = chat.send_message(f' from {user_list} give Answer for only words which matches from {user_query}, return only the words which are matching ,if none matching write No close match found.')
+            response = chat.send_message(f'From the list {user_list}, find and return words that directly match or are indirectly related to the query "{user_query}". For direct matches or close synonyms, return the matching words. For indirectly related terms, like for example "Spotify" being related to "song", provide the associated word. If no matches or related terms are found, respond with "No close match found."')
             st.write(response.text)
         elif user_query=='':
             st.write("Please write something in input box to check for")
