@@ -1,3 +1,4 @@
 streamlit
 python-dotenv
 google-generativeai
+rapidfuzz==3.6.1
