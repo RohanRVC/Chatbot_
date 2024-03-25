@@ -14,7 +14,7 @@ known_abbreviations = {
     "drc": "Democratic Republic of the Congo",
     "roc": "Republic of China",  # Refers to Taiwan  
     "south korea": "Republic of Korea",
-    "north korea": "Democratic People's Republic of Korea", 
+    "north korea": "Democratic People's Republic of Korea",  
     "vn": "Vietnam",
     "ven": "Venezuela", 
     "bol": "Bolivia", 
