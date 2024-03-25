@@ -9,7 +9,7 @@ known_abbreviations = {
     "uae": "United Arab Emirates",
     "prc": "People's Republic of China", 
     "russia": "Russian Federation",  # Common name, full name is "Russian Federation"
-    "sa": "Saudi Arabia",
+    "sa": "Saudi Arabia", 
     "rsa": "Republic of South Africa",
     "drc": "Democratic Republic of the Congo",
     "roc": "Republic of China",  # Refers to Taiwan 
