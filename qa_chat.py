@@ -28,7 +28,7 @@ if 'chat_history' not in st.session_state:
 input=st.text_input('Input:',key='input')  
 submit=st.button("Ask the question") 
  
-if submit and input:
+if submit and input: 
     response=get_gemini_response(input)
     ## add user query and response to session chat history
     st.session_state['chat_history'].append(('You',input))
