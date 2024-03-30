@@ -24,7 +24,7 @@ known_abbreviations = {
     "fr": "France",
     "es": "Spain", 
     "it": "Italy",
-    "br": "Brazil", 
+    "br": "Brazil",   
     "ca": "Canada", 
     "mx": "Mexico", 
     "in": "India",
