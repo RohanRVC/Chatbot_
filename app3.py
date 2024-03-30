@@ -16,7 +16,7 @@ known_abbreviations = {
     "south korea": "Republic of Korea",
     "north korea": "Democratic People's Republic of Korea",   
     "vn": "Vietnam",
-    "ven": "Venezuela", 
+    "ven": "Venezuela",  
     "bol": "Bolivia", 
     "ir": "Iran",
     "jp": "Japan", 
