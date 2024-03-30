@@ -20,7 +20,7 @@ known_abbreviations = {
     "bol": "Bolivia", 
     "ir": "Iran",
     "jp": "Japan",   
-    "de": "Germany",
+    "de": "Germany", 
     "fr": "France",
     "es": "Spain", 
     "it": "Italy",
