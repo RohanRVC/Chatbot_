@@ -33,7 +33,7 @@ known_abbreviations = {
     "arg": "Argentina",
     "sg": "Singapore",
     "my": "Malaysia",
-    "id": "Indonesia",
+    "id": "Indonesia", 
     "ph": "Philippines",
     "th": "Thailand",
     "lk": "Sri Lanka",
