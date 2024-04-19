@@ -12,7 +12,7 @@ model=genai.GenerativeModel("gemini-pro")
 chat=model.start_chat(history=[]) 
  
 def get_gemini_response(question):
-    response=chat.send_message(question,stream=True) # as llm modelis giving u the output we will steam and show the output
+    response=chat.send_message(question,stream=True) # as llm modelis giving u the output we will steam and show the output 
     return response  
  
 # now we are gonna initialize our streamlit app 
