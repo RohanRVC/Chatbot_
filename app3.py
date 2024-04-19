@@ -21,7 +21,7 @@ known_abbreviations = {
     "ir": "Iran", 
     "jp": "Japan",   
     "de": "Germany", 
-    "fr": "France",
+    "fr": "France", 
     "es": "Spain",  
     "it": "Italy",
     "br": "Brazil",   
