@@ -16,7 +16,7 @@ def get_gemini_response(question):
     return response  
  
 # now we are gonna initialize our streamlit app 
-st.set_page_config(page_title='qna_on_chatbot_development') 
+st.set_page_config(page_title='qna_on_chatbot_development')  
   
 st.header("ChatBot For Fitness created by RVC with 💌") 
 st.subheader("Scroll down for Chat History")   
