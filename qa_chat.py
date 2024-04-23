@@ -21,7 +21,7 @@ st.set_page_config(page_title='qna_on_chatbot_development')
 st.header("ChatBot For Fitness created by RVC with 💌") 
 st.subheader("Scroll down for Chat History")   
 
-# Initialize session state for chat history if it does'nt exist
+# Initialize session state for chat history if it does'nt exist 
 if 'chat_history' not in st.session_state: 
     st.session_state['chat_history']=[]  
  
