@@ -19,7 +19,7 @@ known_abbreviations = {
     "ven": "Venezuela",      
     "bol": "Bolivia",  
     "ir": "Iran", 
-    "jp": "Japan",   
+    "jp": "Japan",    
     "de": "Germany", 
     "fr": "France", 
     "es": "Spain",    
