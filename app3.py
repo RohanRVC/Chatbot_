@@ -15,7 +15,7 @@ known_abbreviations = {
     "roc": "Republic of China",  # Refers to Taiwan        
     "south korea": "Republic of Korea",  
     "north korea": "Democratic People's Republic of Korea",        
-    "vn": "Vietnam",     
+    "vn": "Vietnam",      
     "ven": "Venezuela",          
     "bol": "Bolivia",   
     "ir": "Iran",    
