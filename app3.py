@@ -13,7 +13,7 @@ known_abbreviations = {
     "rsa": "Republic of South Africa",             
     "drc": "Democratic Republic of the Congo",   
     "roc": "Republic of China",  # Refers to Taiwan        
-    "south korea": "Republic of Korea",   
+    "south korea": "Republic of Korea",    
     "north korea": "Democratic People's Republic of Korea",        
     "vn": "Vietnam",      
     "ven": "Venezuela",          
