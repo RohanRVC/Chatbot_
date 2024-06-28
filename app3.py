@@ -2,7 +2,7 @@ import streamlit as st
 from rapidfuzz import process, fuzz       
 import google.generativeai as genai     
       
-# Map of known abbreviations to their full names             
+# Map of known abbreviations to their full names              
 known_abbreviations = {       
     "usa": "United States of America",        
     "uk": "United Kingdom",      
