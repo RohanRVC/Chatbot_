@@ -3,7 +3,7 @@ from rapidfuzz import process, fuzz
 import google.generativeai as genai     
       
 # Map of known abbreviations to their full names              
-known_abbreviations = {       
+known_abbreviations = {        
     "usa": "United States of America",         
     "uk": "United Kingdom",         
     "uae": "United Arab Emirates",           
