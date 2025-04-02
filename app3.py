@@ -8,7 +8,7 @@ known_abbreviations = {
     "uk": "United Kingdom",                
     "uae": "United Arab Emirates",                           
     "prc": "People's Republic of China",                   
-    "russia": "Russian Federation",  # Common name, full name is "Russian Federation"               
+    "russia": "Russian Federation",  # Common name, full name is "Russian Federation"                
     "sa": "Saudi Arabia",                         
     "rsa": "Republic of South Africa",               
     "drc": "Democratic Republic of the Congo",     
