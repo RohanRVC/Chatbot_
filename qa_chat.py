@@ -5,7 +5,7 @@ import streamlit as st
 import os         
 import google.generativeai as genai            
            
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))            
+genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))             
          
 # now wee are writing function to load Gemini Pro mode land get response                
 model=genai.GenerativeModel("gemini-pro")       
